@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anasj94
-- 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning ML/AI
-- 💞️ I’m looking to collaborate on ML projects.
+- 👀 I’m interested in developing softwares and solving problems through technology.
+- 💞️ I’m looking to collaborate on web development project either front-end, back-end or full stack.
 - 📫 You can contact me via email : anasjavaid@icloud.com
 
 <!---
